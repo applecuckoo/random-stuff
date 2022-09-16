@@ -51,6 +51,14 @@
 	margin: auto;
 }
 
+.emojiHeader {
+	background-color: lightskyblue;
+}
+
+.emojiText {
+	background-color: lightseagreen;
+}
+
 p {
 	/* Source Serif for body copy. Centre align also there. */
   font-family: 'Source Serif 4', serif;
