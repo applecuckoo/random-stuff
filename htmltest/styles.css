@@ -53,7 +53,7 @@
 
 p {
 	/* Source Serif for body copy. Centre align also there. */
-    font-family: 'Source Serif 4', serif;
+  font-family: 'Source Serif 4', serif;
 	text-align: center;
 	font-size: 12pt;
 	padding: 10px;
@@ -61,6 +61,6 @@ p {
 
 h1 {
 	/* Open Sans for header */
-    font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	text-align: center;
 }
