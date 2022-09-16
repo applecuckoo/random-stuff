@@ -1,3 +1,3 @@
 # My random project repo
 
-More coming soon!
+This is my random project repo, with Python, HTML, Small Basic and CircuitPython.
