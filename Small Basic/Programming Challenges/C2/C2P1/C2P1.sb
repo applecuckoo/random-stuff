@@ -1,0 +1,8 @@
+' C2P1.sb
+TextWindow.BackgroundColor = "White"
+TextWindow.Clear()
+TextWindow.ForegroundColor = "Blue"
+TextWindow.WriteLine("My name is Aidan Chui")
+TextWindow.ForegroundColor = "DarkYellow"
+TextWindow.WriteLine("I am 11 years old")
+TextWindow.ForegroundColor = "Black"

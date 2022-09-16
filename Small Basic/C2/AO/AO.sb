@@ -1,0 +1,10 @@
+' AO.sb
+TextWindow.WriteLine(4 + 5)
+TextWindow.WriteLine(3 / 6)
+TextWindow.WriteLine(8.0 / 4)
+TextWindow.WriteLine(3 * 4)
+TextWindow.WriteLine(9 - 3)
+
+' BEDMAS demo
+TextWindow.WriteLine("")
+TextWindow.WriteLine((3.5 + 6.5) - (5 - 2.5))

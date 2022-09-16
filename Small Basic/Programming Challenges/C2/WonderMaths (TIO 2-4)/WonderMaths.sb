@@ -1,0 +1,20 @@
+' WonderMaths.sb
+' Alice has a Small Basic companion!
+
+' White Queen question
+TextWindow.WriteLine("The White Queen asks:")
+TextWindow.WriteLine("What is 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1?")
+TextWindow.WriteLine("Her robot companion, Mr S. Basic says:")
+TextWindow.WriteLine("CALCULATING... " + (1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1) + " is the answer.")
+
+' Paragraph
+TextWindow.WriteLine("")
+
+' Red Queen question
+TextWindow.WriteLine("The Red Queen asks:")
+TextWindow.WriteLine("What is 9 - 8?")
+TextWindow.WriteLine("Mr Basic says:")
+TextWindow.WriteLine("CALCULATING... " + (9 - 8) + " is the answer.")
+
+' End of program
+TextWindow.WriteLine("")

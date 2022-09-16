@@ -1,0 +1,7 @@
+' TIO2-1.sb
+TextWindow.Title = "BigNum"
+GraphicsWindow.Title = "Rectangle"
+Shapes.AddRectangle(100, 50)
+mm = Math.Max(5, 10)
+TextWindow.WriteLine(mm)
+Sound.PlayBellRing()

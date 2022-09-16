@@ -1,0 +1,4 @@
+' Triangles.sb
+GraphicsWindow.BrushColor = "Blue"
+GraphicsWindow.FillTriangle(100, 10, 40, 50, 100, 50)
+GraphicsWindow.DrawTriangle(100, 10, 40, 50, 100, 50)

@@ -1,0 +1,11 @@
+' Face.sb
+GraphicsWindow.Title = "Face"
+
+GraphicsWindow.BrushColor = "Yellow" ' Ear colour
+GraphicsWindow.FillEllipse(20, 30, 10, 40) ' Left ear
+GraphicsWindow.DrawEllipse(20, 30, 10, 40) ' Left ear border
+
+GraphicsWindow.FillEllipse(100, 30, 10, 40) ' Right ear
+GraphicsWindow.DrawEllipse(100, 30, 10, 40) ' Right ear border
+
+GraphicsWindow.BrushColor = "Lime" ' Colour of the two eyes

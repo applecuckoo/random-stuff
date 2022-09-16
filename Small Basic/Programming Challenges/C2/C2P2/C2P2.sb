@@ -1,0 +1,3 @@
+' C2P2.sb
+TextWindow.Write("Hydrogen" + " is the " + "first")
+TextWindow.WriteLine(" element of the periodic table.")

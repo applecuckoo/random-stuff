@@ -1,0 +1,20 @@
+' Pinwheel.sb
+GraphicsWindow.Title = "Pinwheel"
+GraphicsWindow.BrushColor = "LightBlue"
+GraphicsWindow.FillTriangle(0, 0, 20, 40, 40, 40)
+GraphicsWindow.DrawTriangle(0, 0, 20, 40, 40, 40)
+GraphicsWindow.FillTriangle(40, 20, 40, 40, 80, 0)
+GraphicsWindow.DrawTriangle(40, 20, 40, 40, 80, 0)
+GraphicsWindow.FillTriangle(40, 40, 60, 40, 80, 80)
+GraphicsWindow.DrawTriangle(40, 40, 60, 40, 80, 80)
+GraphicsWindow.FillTriangle(40, 40, 40, 60, 0, 80)
+GraphicsWindow.DrawTriangle(40, 40, 40, 60, 0, 80)
+GraphicsWindow.BrushColor = "Khaki"
+GraphicsWindow.FillTriangle(40, 0, 40, 40, 20, 20)
+GraphicsWindow.DrawTriangle(40, 0, 40, 40, 20, 20)
+GraphicsWindow.FillTriangle(60, 20, 80, 40, 40, 40)
+GraphicsWindow.DrawTriangle(60, 20, 80, 40, 40, 40)
+GraphicsWindow.FillTriangle(40, 40, 60, 60, 40, 80)
+GraphicsWindow.DrawTriangle(40, 40, 60, 60, 40, 80)
+GraphicsWindow.FillTriangle(0, 40, 40, 40, 20, 60)
+GraphicsWindow.DrawTriangle(0, 40, 40, 40, 20, 60)

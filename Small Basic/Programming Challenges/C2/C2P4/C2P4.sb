@@ -1,0 +1,29 @@
+' C2P4.sb
+
+TextWindow.BackgroundColor = "White"
+TextWindow.Clear()
+TextWindow.ForegroundColor = "Green"
+TextWindow.WriteLine("    *")
+TextWindow.WriteLine("   * *")
+TextWindow.Write("  * ")
+TextWindow.ForegroundColor = "Magenta"
+TextWindow.Write("o ")
+TextWindow.ForegroundColor = "Green"
+TextWindow.WriteLine("*")
+TextWindow.Write(" * ")
+TextWindow.ForegroundColor = "DarkBlue"
+TextWindow.Write("o o ")
+TextWindow.ForegroundColor = "Green"
+TextWindow.WriteLine("*")
+TextWindow.Write("* ")
+TextWindow.ForegroundColor = "Red"
+TextWindow.Write("o o o ")
+TextWindow.ForegroundColor = "Green"
+TextWindow.WriteLine("*")
+TextWindow.WriteLine("*********")
+TextWindow.WriteLine("   | |")
+TextWindow.WriteLine("   ---")
+TextWindow.ForegroundColor = "DarkYellow"
+TextWindow.WriteLine("Merry Christmas!")
+TextWindow.WriteLine("")
+TextWindow.ForegroundColor = "Black"

@@ -1,0 +1,10 @@
+' TIO2-2.sb
+TextWindow.BackgroundColor = "White"
+TextWindow.ForegroundColor = "Black"
+TextWindow.Clear()
+TextWindow.WriteLine(" *------*")
+TextWindow.WriteLine("_|(.)(.)|_")
+TextWindow.WriteLine("\|  /\  |/")
+TextWindow.WriteLine(" | \__/ |")
+TextWindow.WriteLine(" *--||--*")
+TextWindow.WriteLine("   _/\_")
