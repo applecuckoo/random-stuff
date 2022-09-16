@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Import Mermaid from JSDelivr -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      // Initialise the Mermaid Graphinator
+      mermaid.initialize({ startOnLoad: true });
+    </script>
+    <title>Graphinator</title>
+  </head>
+  <body>
+    <h1 class="graphHeader">Mermaid Graphinator</h1>
+    <p>Graphs - they're complicated to make, but now you can code a graph with <a href="https://mermaid.live">Mermaid</a>, a Markdown-like language for graphs.</p>
+    <!-- Magic syntax -->
+    <div class="mermaid">
+      graph TD
+      a[Apps - Calculation, Graph, etc.] --> b[Escher - GUI Toolkit]
+      a --> c[Poincaré - Mathematical engine]
+      b --> d[Kandinsky - Graphics Engine]
+      d --> e[Ion - Hardware abstraction layer]
+      b --> e
+    </div>
+	<br><p><a href="index.html">Click here to go back to the homepage.</a></p>
+  </body>
+</html>
