@@ -12,7 +12,7 @@ Most of my commits from commit hash **bb80bc2d84edc73d9d5b945ae15e4d681df5821c**
 
 > This commit was signed with the committer’s verified signature.
 
-That means that I will have made a commit from my laptop or my desktop through GitHub Desktop or VS Code, as both my computers have a cryptographic key tied to them.
+That means that I will have made a commit from my laptop or my desktop through GitHub Desktop or VS Code, as both my computers have a SSH key tied to them.
 
 Otherwise, it will say this:
 
