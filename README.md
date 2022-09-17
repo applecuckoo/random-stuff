@@ -8,11 +8,11 @@ This is my random project repo, with Python, HTML, Small Basic and CircuitPython
 
 ## Is it you?
 
-All my commits from commit hash **bb80bc2d84edc73d9d5b945ae15e4d681df5821c** will say *Verified*. When you click *Verified*, it will state one of the following:
+Most of my commits from commit hash **bb80bc2d84edc73d9d5b945ae15e4d681df5821c** will say *Verified*. When you click *Verified*, it will state one of the following:
 
 > This commit was signed with the committer’s verified signature.
 
-That means that I will have made a commit from my laptop or my desktop through GitHub Desktop or VS Code, as my computers both have an SSH key tied to it.
+That means that I will have made a commit from my laptop or my desktop through GitHub Desktop or VS Code, as my computers both have a key tied to it (my laptop uses an SSH key rather than a GPG key, I had SSH problems on Windows).
 
 Otherwise, it will say this:
 
