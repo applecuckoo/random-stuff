@@ -8,7 +8,7 @@ This is my random project repo, with Python, HTML, Small Basic and CircuitPython
 
 ## Is it you?
 
-All my commits from commit hash **bb80bc2d84edc73d9d5b945ae15e4d681df5821c** will say *Verified*. When you click *Verified*, it will state one of the following:
+Most of my commits from commit hash **bb80bc2d84edc73d9d5b945ae15e4d681df5821c** will say *Verified*. When you click *Verified*, it will state one of the following:
 
 > This commit was signed with the committer’s verified signature.
 
