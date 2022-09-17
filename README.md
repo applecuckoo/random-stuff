@@ -21,3 +21,13 @@ Otherwise, it will say this:
 That probably means that I got lazy and did it online.
 
 Either way, it's verified so you know it's me. :smiley:
+
+## SSH keys, current as of 18/09/2022
+
+### MacBook Air:
+
+`+2kMhvD7kDHinRMQbWPPfQoCpZDnM1898/S9P6HXVJE`
+
+### Windows Rig:
+
+`R9HdZwysBMsT3v0yzEEvKjw8D5hbPaBYDF16MBod8ZA`
