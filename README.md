@@ -31,3 +31,5 @@ Either way, it's verified so you know it's me. :smiley:
 ### Windows Rig:
 
 `R9HdZwysBMsT3v0yzEEvKjw8D5hbPaBYDF16MBod8ZA`
+
+P.S. there may be some commits signed with a GPG key, I ended up figuring out how to use the SSH key so I don't use that anymore.
