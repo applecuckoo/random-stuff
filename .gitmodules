@@ -1,0 +1,3 @@
+[submodule "HTMLsource"]
+	path = HTMLsource
+	url = https://github.com/applecuckoo/applecuckoo.github.io
