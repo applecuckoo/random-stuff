@@ -1,6 +1,6 @@
 # The HTML section
 
-One of my big projects is this HTMLtest directory, where I fiddle around with HTML, CSS and JavaScript. Some of these languages and things that I use in this folder may also be demonstrated here on GitHub as Markdown files. Go to [index.html](index.html) to start! Also, the JavaScript functions I made are in [scripts.js](scripts.js), and the CSS is in [styles.css](styles.css).
+One of my big projects is my website, where I fiddle around with HTML, CSS and JavaScript. Some of these languages and things that I use on the site may also be demonstrated here on GitHub as Markdown files. Go to [my website](https://applecuckoo.github.io) to start! The raw code for this site is hosted on GitHub Pages in [this repo](https://github.com/applecuckoo/applecuckoo.github.io)
 
 *The following is from [instructions.md](instructions.md):*
 
