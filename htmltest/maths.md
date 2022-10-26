@@ -49,3 +49,7 @@ $$ y=x^{2} $$
 # Pythagoras
 
 $$ a^{2}+b^{2}=c^{2} $$
+
+# A little bit of trig
+
+$$ sin({90}^\circ)={1} $$
