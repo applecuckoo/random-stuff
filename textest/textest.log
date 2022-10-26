@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.8)  17 SEP 2022 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.8)  26 OCT 2022 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -117,11 +117,12 @@ Here is how much of TeX's memory you used:
  54i,5n,62p,203b,111s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
 live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on textest.pdf (1 page, 33138 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on textest.pdf (1 page, 42316 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
